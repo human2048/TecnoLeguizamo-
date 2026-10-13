@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "tecno-taller": {
+      "command": "python",
+      "args": ["D:\\Tecnoleguizamo Base de datos\\services\\mcp_server.py"]
+    }
+  }
+}
